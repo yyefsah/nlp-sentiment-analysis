@@ -84,4 +84,4 @@ La Régression Logistique domine — résultat cohérent avec la littérature : 
 
 ---
 
-*Master 2 Probabilités, Statistiques et Nouvelles Données — HETIC 2026–2027*
+*Master 2 Probabilités, Statistiques et Nouvelles Données *
